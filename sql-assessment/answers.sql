@@ -1,4 +1,4 @@
-#I used data.world to write the queries by uploading the files/csv hence the table names are different from the ones created in the DB. 
+#I used data.world to write the queries by uploading the files/csv, so the table names are different from the ones created in the DB. 
 
 #Question1, Write a query to get the sum of impressions by day.
 
